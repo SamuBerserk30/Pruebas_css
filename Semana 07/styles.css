@@ -1,0 +1,23 @@
+h1 {
+    color: rgb(199, 196, 0);  
+    text-align: center;
+    font-family:monospace, 'Courier New', Courier, monospace;
+    font-size:48px;
+}
+h2 {
+    color: rgb(35, 0, 189);
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size:25px;
+}
+
+p {
+    color:black;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+footer {
+    color:blanchedalmond;
+    text-align: center;
+    font-size:15px;
+}
